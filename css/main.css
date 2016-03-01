@@ -220,8 +220,15 @@ textarea {
 
 
 /***Layout***/
+#cssmenu ul .title{
+    float: right;
+    margin-right: 10px;
 
+} 
 
+#cssmenu ul .title a{
+  color: #f96e5b;
+}
 
 
 
