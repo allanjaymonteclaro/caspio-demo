@@ -130,7 +130,7 @@ textarea {
   text-align: center;
 }
 #cssmenu ul li a {
-  color: #f96e5b;
+  color: #ffffff;
   text-decoration: none;
   display: block;
   padding: 15px 25px;
@@ -146,7 +146,7 @@ textarea {
   transition: color .25s;
 }
 #cssmenu ul li a:hover {
-  color: #333333;
+  color: #f96e5b;
 }
 #cssmenu ul li a:hover:before {
   width: 100%;
@@ -182,7 +182,7 @@ textarea {
   display: none;
 }
 #cssmenu ul li.active a {
-  color: #333333;
+  color: #7f8c8d;
 }
 #cssmenu ul li.active a:before {
   width: 100%;
@@ -219,7 +219,7 @@ textarea {
 }
 
 
-
+/***Layout***/
 
 
 
